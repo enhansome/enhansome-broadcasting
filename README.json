@@ -1,0 +1,2031 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ffplayout",
+          "description": "Rust and FFmpeg based playout from folder or playlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:09:56Z",
+            "owner": "ffplayout",
+            "repo": "ffplayout",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sofie - TV Automation",
+          "description": "MOS-driven automation system for news casts, with many libraries for e.g. device control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-16T16:30:02Z",
+            "owner": "Sofie-Automation",
+            "repo": "Sofie-TV-automation",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPX - Graphics Controller",
+          "description": "Graphics control client for live video productions and live streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-16T16:19:20Z",
+            "owner": "TuomoKu",
+            "repo": "SPX-GC",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Playout Automation",
+          "description": "A CasparCG-based MCR play-out system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-28T18:38:28Z",
+            "owner": "jaskie",
+            "repo": "PlayoutAutomation",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurena",
+          "description": "A network distributed media playback system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-31T16:10:58Z",
+            "owner": "thaytan",
+            "repo": "aurena",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macadam",
+          "description": "Blackmagic Node.js bindings that support HTML/CSS (via Electron) and SVG (via Sevruga) graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-22T08:59:37Z",
+            "owner": "Streampunk",
+            "repo": "macadam",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OGraf",
+          "description": "Open specification for HTML based Graphics, used in live television and post production workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T07:31:03Z",
+            "owner": "ebu",
+            "repo": "ograf",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridge",
+          "description": "Next generation graphics control software, with extension support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T21:32:30Z",
+            "owner": "svt",
+            "repo": "bridge",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Studio TV Player",
+          "description": "Simple TV studio player with SDI, NDI and MPEG TS outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T20:47:49Z",
+            "owner": "jaskie",
+            "repo": "StudioTVPlayer",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamShapers - Ferryman",
+          "description": "Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-09T12:25:55Z",
+            "owner": "Streamshapers",
+            "repo": "StreamShapers-Ferryman",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caspar-obs-client",
+          "description": "Python GUI application for seamless integration between CasparCG media servers and OBS Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T10:25:24Z",
+            "owner": "michalramus",
+            "repo": "caspar-obs-client",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Animation, Graphics & Video Playout"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OnAirScreen",
+          "description": "Cross-platform \"OnAir Lamp\" solution targeted for use in professional broadcast environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:02:34Z",
+            "owner": "saschaludwig",
+            "repo": "OnAirScreen",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiClock",
+          "description": "Customisable network based displays of clocks, on-air, mic live and other studio indicators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-05T18:30:28Z",
+            "owner": "simonhyde",
+            "repo": "PiClock",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiRSClock-Full",
+          "description": "Radio Studio Clock with studio indicators for mics, telephones etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-03-22T03:39:31Z",
+            "owner": "jdgwarren",
+            "repo": "pirsclockfull",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiClock Advanced",
+          "description": "Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-20T12:48:24Z",
+            "owner": "ael",
+            "repo": "piclock_advanced",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OATIS",
+          "description": "Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T08:58:53Z",
+            "owner": "jamiehull",
+            "repo": "OATIS",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Clocks & Studio Screens"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Intercom Manager",
+          "description": "+ Intercom Frontend - Intercom system based on built by Eyevinn for SVT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T06:32:56Z",
+            "owner": "Eyevinn",
+            "repo": "intercom-manager",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DYI intercom",
+          "description": "Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-08T21:55:35Z",
+            "owner": "matiaspl",
+            "repo": "intercom",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydvbcss",
+          "description": "Implementation of the DVB Companion Screens and Streams protocols for synchronised media playback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-16T09:32:52Z",
+            "owner": "bbc",
+            "repo": "pydvbcss",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvbcss-synctiming",
+          "description": "A system for measuring how accurately a TV or companion are synchronised.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-19T08:33:44Z",
+            "owner": "bbc",
+            "repo": "dvbcss-synctiming",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvbcss-synckit-ios",
+          "description": "iOS libraries for companion screen applications that are synchronised frame-accurately to a TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-11-22T20:57:39Z",
+            "owner": "bbc",
+            "repo": "dvbcss-synckit-ios",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dial-discovery-ios",
+          "description": "A library for the discovery of devices via the DIAL protocol on the iOS platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-11-22T20:44:08Z",
+            "owner": "bbc",
+            "repo": "dial-discovery-ios",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Companion Screens"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HbbPlayer",
+          "description": "An HbbTV and W3C specifications compliant application that can playback media from a URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-06-26T06:01:54Z",
+            "owner": "Samsung",
+            "repo": "HbbPlayer",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPA Authorization Provider",
+          "description": "Reference implementation for linking media devices with online identities (related repos here).",
+          "children": []
+        }
+      ],
+      "title": "Connected TVs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitfocus Companion",
+          "description": "Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an increasing amount of broadcast equipment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:48:53Z",
+            "owner": "bitfocus",
+            "repo": "companion",
+            "stars": 2250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDIMonster",
+          "description": "Lightweight adapter tool for common show control protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-24T15:37:50Z",
+            "owner": "cbdevnet",
+            "repo": "midimonster",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lawo EmberPlus",
+          "description": "Ember Plus - open protocol for interfacing to / from broadcast control systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T10:47:50Z",
+            "owner": "Lawo",
+            "repo": "ember-plus",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Control Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opencaster",
+          "description": "A free and open source MPEG2 transport stream data generator and packet manipulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-04T11:14:33Z",
+            "owner": "aventuri",
+            "repo": "opencaster",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DTT 2 IP",
+          "description": "Broadcast to IP conversion for Wifi indoor coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-21T10:11:03Z",
+            "owner": "ebu",
+            "repo": "dtt2ip",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvbshout",
+          "description": "Tool to send DVB audio to a shoutcast server or a RTP stream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-29T16:33:44Z",
+            "owner": "njh",
+            "repo": "dvbshout",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2mpa",
+          "description": "Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-29T17:46:32Z",
+            "owner": "njh",
+            "repo": "ts2mpa",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "DVB & WiFi"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RadioVIS Demo",
+          "description": "RadioVIS client application in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T18:05:40Z",
+            "owner": "bbc",
+            "repo": "RadioVisDemo",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioDNS Manager",
+          "description": "Platform to manage Hybrid Radio services, e.g. RadioVIS, RadioEPG and Service Following.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-01T20:32:29Z",
+            "owner": "ebu",
+            "repo": "radiodns-manager",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioVIS Html Player",
+          "description": "RadioVIS Player using WebSocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-10T08:46:24Z",
+            "owner": "ebu",
+            "repo": "radiovis-html5player",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioVIS Stomp Server",
+          "description": "RadioVIS STOMP server written in node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T15:12:40Z",
+            "owner": "bbc",
+            "repo": "node-radiovis-stomp-server",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioDNS for Node.js",
+          "description": "Perform RadioDNS resolutions and service lookups in node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T15:13:30Z",
+            "owner": "bbc",
+            "repo": "node-radiodns",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioTag.js",
+          "description": "RadioTag client library in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-09T08:19:34Z",
+            "owner": "ebu",
+            "repo": "radiotag.js",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Hybrid Radio"
+    },
+    {
+      "description": "Audio/Video over IP & Streaming",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EBU LIST",
+          "description": "Live IP Software Toolkit to assist EBU members in the implementation of IP based facilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T13:14:40Z",
+            "owner": "ebu",
+            "repo": "pi-list",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoIPath-Automation-Tool",
+          "description": "A Python package for automating VideoIPath configuration workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:44:43Z",
+            "owner": "SWR-MoIP",
+            "repo": "VideoIPath-Automation-Tool",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRIS Broadcast",
+          "description": "A project founded in Sweden to publish Open Source software for professional radio broadcasts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-08T16:47:48Z",
+            "owner": "IrisBroadcast",
+            "repo": "irisbroadcast.github.io",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "LiveIP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kodi",
+          "description": "A software media player and entertainment hub for digital media.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:11:25Z",
+            "owner": "xbmc",
+            "repo": "xbmc",
+            "stars": 21091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rx-player",
+          "description": "HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:17:20Z",
+            "owner": "canalplus",
+            "repo": "rx-player",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash.js",
+          "description": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-08T15:42:01Z",
+            "owner": "ebu",
+            "repo": "dash.js",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media4DPlayer",
+          "description": "HTML5 player focused on accessibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-03T05:14:53Z",
+            "owner": "ebu",
+            "repo": "media4Dplayer",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Media Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libklvanc",
+          "description": "C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-26T20:58:42Z",
+            "owner": "stoth68000",
+            "repo": "libklvanc",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libadm",
+          "description": "Audio Definition Model (ITU-R BS.2076) handling C++11 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T13:16:29Z",
+            "owner": "ebu",
+            "repo": "libadm",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMXlib",
+          "description": "Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T11:57:34Z",
+            "owner": "ebu",
+            "repo": "bmx",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EBUCore",
+          "description": "The Github for maintenance of the EBUCore schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-30T11:17:40Z",
+            "owner": "ebu",
+            "repo": "ebucore",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDPoker",
+          "description": "CLI tool and library for testing SMPTE ST2110 SDP files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:28:58Z",
+            "owner": "AMWA-TV",
+            "repo": "sdpoker",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAJ API",
+          "description": "Pure Java library for reading and writing MXF and AAF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-25T09:11:28Z",
+            "owner": "AMWA-TV",
+            "repo": "maj",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TV-Anytime",
+          "description": "The TV-Anytime schema github maintenance page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-29T11:25:01Z",
+            "owner": "ebu",
+            "repo": "tvanytime",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jebu-core",
+          "description": "Java port of EBU Tech 3293 EBU Core metadata, including the Audio Definition Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-13T12:44:18Z",
+            "owner": "mikrosimage",
+            "repo": "jebu-core",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Metadata"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VMAF",
+          "description": "Perceptual video quality assessment based on multi-method fusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T18:32:08Z",
+            "owner": "Netflix",
+            "repo": "vmaf",
+            "stars": 5451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCTools",
+          "description": "Quality Control tools for video preservation to analyse digitized video files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T09:17:56Z",
+            "owner": "bavc",
+            "repo": "qctools",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon",
+          "description": "Implementation of the SMPTE Interoperable Master Format (IMF) standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T02:05:35Z",
+            "owner": "Netflix",
+            "repo": "photon",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi Audio Monitor",
+          "description": "Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-30T08:56:42Z",
+            "owner": "martim01",
+            "repo": "pam",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeaqleJS",
+          "description": "A framework to create browser based listening tests for subjective audio quality assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-09T16:21:32Z",
+            "owner": "HSU-ANT",
+            "repo": "beaqlejs",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTC-tools",
+          "description": "A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-08T19:17:30Z",
+            "owner": "x42",
+            "repo": "ltc-tools",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rotter",
+          "description": "Recording of Transmissions / Audio Logger for JACK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-29T23:03:45Z",
+            "owner": "njh",
+            "repo": "rotter",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MXF Inspect",
+          "description": "A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-11T22:51:49Z",
+            "owner": "Myriadbits",
+            "repo": "MXFInspect",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jack Meter",
+          "description": "Text console based DPM (Digital Peak Meter) for JACK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-29T17:05:10Z",
+            "owner": "njh",
+            "repo": "jackmeter",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "silan",
+          "description": "Audiofile silence analyzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-13T13:01:26Z",
+            "owner": "x42",
+            "repo": "silan",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SilentJack",
+          "description": "Dead-air / Silence detector for JACK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-20T09:20:02Z",
+            "owner": "njh",
+            "repo": "silentjack",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wisual",
+          "description": "A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-06-01T19:46:03Z",
+            "owner": "MarcAntoine-Arnaud",
+            "repo": "wisual",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a_Multiview",
+          "description": "A web based multiview for HLS and Youtube links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-22T11:58:46Z",
+            "owner": "Bencosterton",
+            "repo": "a_MultiView",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Monitoring & Quality Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OBS-Studio",
+          "description": "Software for live streaming and screen recording.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T00:39:00Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 74919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowblade",
+          "description": "A multitrack non-linear video editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T08:08:05Z",
+            "owner": "jliljebl",
+            "repo": "flowblade",
+            "stars": 3081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bento4",
+          "description": "Full-featured MP4 format and MPEG DASH C++ class library and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-27T10:29:30Z",
+            "owner": "axiomatic-systems",
+            "repo": "Bento4",
+            "stars": 2485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MP4Box.js",
+          "description": "JavaScript library to process MP4 files in the browser (and in NodeJS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T15:06:16Z",
+            "owner": "gpac",
+            "repo": "mp4box.js",
+            "stars": 2459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoContext",
+          "description": "Experimental HTML5/WebGL library for creating interactive and responsive web videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T21:51:49Z",
+            "owner": "bbc",
+            "repo": "VideoContext",
+            "stars": 1354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibAV",
+          "description": "Open source audio and video processing tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-22T23:16:28Z",
+            "owner": "libav",
+            "repo": "libav",
+            "stars": 1155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brave",
+          "description": "Basic Real-time AV Editor - lets you preview, mix, and route live audio and video streams on the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-01T11:54:56Z",
+            "owner": "bbc",
+            "repo": "brave",
+            "stars": 692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voctomix",
+          "description": "Customizable conference recording/mixing/streaming software based on Python and GStreamer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T06:29:11Z",
+            "owner": "voc",
+            "repo": "voctomix",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libebur128",
+          "description": "A library that implements the EBU R 128 standard for loudness normalisation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-25T04:01:54Z",
+            "owner": "jiixyj",
+            "repo": "libebur128",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beam Coder",
+          "description": "Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-13T21:40:06Z",
+            "owner": "Streampunk",
+            "repo": "beamcoder",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVT Encore",
+          "description": "Selfhosted video transcoding platform, built around FFmpeg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T11:53:00Z",
+            "owner": "svt",
+            "repo": "encore",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L-SMASH",
+          "description": "A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-06T07:12:26Z",
+            "owner": "l-smash",
+            "repo": "l-smash",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFmbc",
+          "description": "FFmpeg customized for broadcast and professional usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-07-19T20:16:12Z",
+            "owner": "bcoudurier",
+            "repo": "FFmbc",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuttleOFX",
+          "description": "An open source image processing framework based on OpenFX plugin standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-13T16:44:36Z",
+            "owner": "tuttleofx",
+            "repo": "TuttleOFX",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvTranscoder",
+          "description": "FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-22T13:40:23Z",
+            "owner": "avTranscoder",
+            "repo": "avTranscoder",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtmp",
+          "description": "Server implementation of Adobe's RTMP 1.0 protocol in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-06-23T04:51:12Z",
+            "owner": "c-bata",
+            "repo": "rtmp",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codem-isoboxer",
+          "description": "A small browser-based MPEG-4 (ISOBMFF) parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-30T06:56:50Z",
+            "owner": "Dash-Industry-Forum",
+            "repo": "codem-isoboxer",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EBU ADM Renderer",
+          "description": "Reference implementation of the EBU ADM Renderer (EBU Tech 3388)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T13:16:31Z",
+            "owner": "ebu",
+            "repo": "ebu_adm_renderer",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgain3",
+          "description": "Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T07:41:15Z",
+            "owner": "chaudum",
+            "repo": "rgain3",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamorse",
+          "description": "IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-06T13:06:08Z",
+            "owner": "Streampunk",
+            "repo": "node-red-contrib-dynamorse-core",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libbw64",
+          "description": "Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-13T22:32:22Z",
+            "owner": "ebu",
+            "repo": "libbw64",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libear",
+          "description": "A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-10T09:37:23Z",
+            "owner": "ebu",
+            "repo": "libear",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kelvinadon",
+          "description": "Node.JS pure Javascript module for streaming MXF files to and from JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-08T22:46:51Z",
+            "owner": "Streampunk",
+            "repo": "kelvinadon",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loudness Validator",
+          "description": "A set of applications to analyse, visualise and correct the loudness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-09T09:46:55Z",
+            "owner": "mikrosimage",
+            "repo": "loudness_validator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UPipe",
+          "description": "Primarily designed to be the core of a multimedia player, transcoder or streamer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-22T13:38:57Z",
+            "owner": "cmassiot",
+            "repo": "upipe",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Multimedia content processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fio",
+          "description": "Flexible I/O Tester",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T15:20:03Z",
+            "owner": "axboe",
+            "repo": "fio",
+            "stars": 6330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMPTE 2110-20 Analyzer",
+          "description": "Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-01T17:59:50Z",
+            "owner": "ebu",
+            "repo": "smpte2110-analyzer",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examples of SMPTE ST 2110 pcap files",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-17T23:45:44Z",
+            "owner": "NEOAdvancedTechnology",
+            "repo": "ST2110_pcap_zoo",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wireshark dissectors for Video Routers",
+          "description": "Analyzers for various video router/matrix protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-09T15:46:32Z",
+            "owner": "roddypratt",
+            "repo": "router_dissectors",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wireshark dissector for TSL UMD protocol V3.1, V4",
+          "description": "Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-01-14T14:42:11Z",
+            "owner": "roddypratt",
+            "repo": "tslumd-wireshark",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Network & Storage Testing"
+    },
+    {
+      "description": "The Networked Media Open Specifications are themselves open source.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nmos-cpp",
+          "description": "An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:10:56Z",
+            "owner": "sony",
+            "repo": "nmos-cpp",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy-NMOS",
+          "description": "A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-31T18:11:37Z",
+            "owner": "rhastie",
+            "repo": "easy-nmos",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nmos-js",
+          "description": "A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T11:24:06Z",
+            "owner": "sony",
+            "repo": "nmos-js",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA NMOS Library",
+          "description": "(NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:37:43Z",
+            "owner": "NVIDIA",
+            "repo": "nvnmos",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBC NMOS Joint Reference Implementation",
+          "description": "A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-22T13:34:53Z",
+            "owner": "bbc",
+            "repo": "nmos-joint-ri",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nmos-device-control-mock",
+          "description": "A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:22:50Z",
+            "owner": "AMWA-TV",
+            "repo": "nmos-device-control-mock",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DELTACAST IP Virtual Card NMOS samples",
+          "description": "A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through nmos-cpp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-02T06:39:44Z",
+            "owner": "deltacasttv",
+            "repo": "nmos-ipvc-samples",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "NMOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AntennaPod",
+          "description": "A podcast manager for Android (antennapod.org).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-02T12:42:40Z",
+            "owner": "AntennaPod",
+            "repo": "AntennaPod",
+            "stars": 8075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castopod",
+          "description": "Podcast Hosting and Broadcasting (castopod.org).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-05T19:47:06Z",
+            "owner": "ad-aures",
+            "repo": "castopod",
+            "stars": 863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anytime Podcast Player",
+          "description": "Free and easy to use podcast player for Android and iOS (anytimeplayer.app).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-22T16:53:19Z",
+            "owner": "amugofjava",
+            "repo": "anytime_podcast_player",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podlove Publisher",
+          "description": "Podcast Publisher for WordPress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-15T13:31:00Z",
+            "owner": "podlove",
+            "repo": "podlove-publisher",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podlove Web Player",
+          "description": "Podcast-optimized, HTML5-based video and audio player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T21:46:31Z",
+            "owner": "podlove",
+            "repo": "podlove-ui",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Podcasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AzuraCast",
+          "description": "A self-hosted web radio management suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T19:44:42Z",
+            "owner": "AzuraCast",
+            "repo": "AzuraCast",
+            "stars": 3982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquidsoap",
+          "description": "A Swiss army knife for multimedia streaming (documentation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-12T20:25:59Z",
+            "owner": "savonet",
+            "repo": "liquidsoap",
+            "stars": 1715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airtime",
+          "description": "Radio management application for remote broadcast automation (via web-based schedule).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-07-14T09:40:43Z",
+            "owner": "sourcefabric",
+            "repo": "airtime",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rivendell",
+          "description": "Complete radio broadcast automation solution, translated to many languages and used worldwide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:19:35Z",
+            "owner": "ElvishArtisan",
+            "repo": "rivendell",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAAR",
+          "description": "A ruby application to manage and browse an audio archive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T07:17:02Z",
+            "owner": "radiorabe",
+            "repo": "raar",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Radio Production"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OnTime",
+          "description": "Web based time keeping system for live events with a broadcast clock view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:46:02Z",
+            "owner": "cpvalente",
+            "repo": "ontime",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperConductor",
+          "description": "Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T09:15:48Z",
+            "owner": "SuperFlyTV",
+            "repo": "SuperConductor",
+            "stars": 348
+          }
+        }
+      ],
+      "title": "Rundown Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "threefive",
+          "description": "SCTE-35 Parser and Encoder for MPEGTS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T01:58:59Z",
+            "owner": "superkabuki",
+            "repo": "threefive_is_scte35",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x9k3",
+          "description": "Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T05:29:27Z",
+            "owner": "superkabuki",
+            "repo": "x9k3",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wireshark-scte",
+          "description": "SCTE-104 protocol dissector for Wireshark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-14T23:21:13Z",
+            "owner": "m1tk4",
+            "repo": "wireshark-scte",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "SCTE-35 & SCTE-104"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PeerTube",
+          "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:43:45Z",
+            "owner": "Chocobozzz",
+            "repo": "PeerTube",
+            "stars": 15258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owncast",
+          "description": "Selfhosted video streaming platform (https://owncast.online/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:33:36Z",
+            "owner": "owncast",
+            "repo": "owncast",
+            "stars": 11456
+          }
+        }
+      ],
+      "title": "Streaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ttconv",
+          "description": "Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:27:10Z",
+            "owner": "sandflow",
+            "repo": "ttconv",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imscJS",
+          "description": "JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-02T00:49:09Z",
+            "owner": "sandflow",
+            "repo": "imscJS",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timed Text Toolkit (ttt)",
+          "description": "Tools that support/use the W3C Timed Text Markup Language (TTML).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-12T00:00:30Z",
+            "owner": "skynav",
+            "repo": "ttt",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subtitling Conversion Framework (SCF)",
+          "description": "Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2020-11-16T05:20:44Z",
+            "owner": "IRT-Open-Source",
+            "repo": "scf",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EBU-TT Live Interoperability Toolkit",
+          "description": "Components for generating, testing and distributing EBU-TT Live subtitles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T15:09:12Z",
+            "owner": "ebu",
+            "repo": "ebu-tt-live-toolkit",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GStreamer TTML subtitling package",
+          "description": "A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-04-07T08:44:29Z",
+            "owner": "BBC-archive",
+            "repo": "gst-ttml-subtitles",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRT EBU-TT-D Application Samples",
+          "description": "EBU-TT-D sample files, PNG images and mp4 videos as rendering references.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-02-28T19:52:59Z",
+            "owner": "IRT-Open-Source",
+            "repo": "irt-ebu-tt-d-application-samples",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EBU-TT-D Subtitling within dash.js",
+          "description": "dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to dash.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-08T15:42:01Z",
+            "owner": "ebu",
+            "repo": "dash.js",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EBU-TT-D W3C XML Schema",
+          "description": "Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-13T15:52:38Z",
+            "owner": "ebu",
+            "repo": "ebu-tt-d-xsd",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Subtitling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ATEM Tally Light with ESP8266",
+          "description": "Wireless tally light for ATEM switchers using an ESP8266 WiFi module, supporting unlimited tally units.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-01T11:17:55Z",
+            "owner": "AronHetLam",
+            "repo": "ATEM_tally_light_with_ESP8266",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifi-tally",
+          "description": "Affordable WiFi-enabled tally light system based on NodeMCU/ESP8266, supporting multiple video mixers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-05T10:16:48Z",
+            "owner": "wifi-tally",
+            "repo": "wifi-tally",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOS-connection",
+          "description": "A JavaScript library for connection and MOS messaging either as MOS device or NRCS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T13:14:39Z",
+            "owner": "Sofie-Automation",
+            "repo": "sofie-mos-connection",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoMix",
+          "description": "Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-12-24T12:01:57Z",
+            "owner": "InsanityRadio",
+            "repo": "automix",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vMix-EmberPlus",
+          "description": "vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-11T01:57:04Z",
+            "owner": "mattlamb99",
+            "repo": "vMix-EmberPlus",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obs-shotlister",
+          "description": "Camera shot queue manager for live productions with OBS Studio integration, LAN web monitoring, and OSC support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T16:15:53Z",
+            "owner": "michalramus",
+            "repo": "obs-shotlister",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TallyLights",
+          "description": "DIY tally lights supporting TSL 3.1 and 5.0 protocols, built around the WeMos D1 Mini microcontroller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-30T18:08:03Z",
+            "owner": "michalramus",
+            "repo": "TallyLights",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Video Production"
+    },
+    {
+      "description": "Please see CONTRIBUTING for details.",
+      "items": [],
+      "title": "Websites"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:23.963Z",
+    "original_repository": "ebu/awesome-broadcasting",
+    "original_repository_sha": "c88ee2b7e1f1cdaff0e418b010520b751e6544d9",
+    "enhanced_repository": "enhansome/enhansome-broadcasting",
+    "enhanced_repository_description": null,
+    "title": "Awesome Broadcasting with stars"
+  }
+}
