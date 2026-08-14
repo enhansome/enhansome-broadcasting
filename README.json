@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T08:09:56Z",
             "owner": "ffplayout",
             "repo": "ffplayout",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-04-28T18:38:28Z",
             "owner": "jaskie",
             "repo": "PlayoutAutomation",
-            "stars": 218
+            "stars": 219
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T07:31:03Z",
+            "last_commit": "2026-08-13T08:35:46Z",
             "owner": "ebu",
             "repo": "ograf",
-            "stars": 110
+            "stars": 112
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-09T21:32:30Z",
             "owner": "svt",
             "repo": "bridge",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-12T20:47:49Z",
             "owner": "jaskie",
             "repo": "StudioTVPlayer",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-04T04:02:34Z",
             "owner": "saschaludwig",
             "repo": "OnAirScreen",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2025-12-05T18:30:28Z",
             "owner": "simonhyde",
             "repo": "PiClock",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-10T06:32:56Z",
             "owner": "Eyevinn",
             "repo": "intercom-manager",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2017-05-19T08:33:44Z",
             "owner": "bbc",
             "repo": "dvbcss-synctiming",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -369,10 +369,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:48:53Z",
+            "last_commit": "2026-08-13T20:54:47Z",
             "owner": "bitfocus",
             "repo": "companion",
-            "stars": 2250
+            "stars": 2251
           }
         },
         {
@@ -617,10 +617,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:11:25Z",
+            "last_commit": "2026-08-13T21:47:07Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21091
+            "stars": 21093
           }
         },
         {
@@ -797,10 +797,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T18:32:08Z",
+            "last_commit": "2026-08-13T17:11:19Z",
             "owner": "Netflix",
             "repo": "vmaf",
-            "stars": 5451
+            "stars": 5452
           }
         },
         {
@@ -968,7 +968,7 @@
             "last_commit": "2025-04-22T11:58:46Z",
             "owner": "Bencosterton",
             "repo": "a_MultiView",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -988,7 +988,7 @@
             "last_commit": "2026-08-11T00:39:00Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 74919
+            "stars": 74953
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-06-23T08:08:05Z",
             "owner": "jliljebl",
             "repo": "flowblade",
-            "stars": 3081
+            "stars": 3082
           }
         },
         {
@@ -1016,7 +1016,7 @@
             "last_commit": "2026-06-27T10:29:30Z",
             "owner": "axiomatic-systems",
             "repo": "Bento4",
-            "stars": 2485
+            "stars": 2486
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "last_commit": "2018-06-23T04:51:12Z",
             "owner": "c-bata",
             "repo": "rtmp",
-            "stars": 141
+            "stars": 139
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2026-08-07T15:20:03Z",
             "owner": "axboe",
             "repo": "fio",
-            "stars": 6330
+            "stars": 6331
           }
         },
         {
@@ -1417,7 +1417,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:10:56Z",
+            "last_commit": "2026-08-13T09:31:07Z",
             "owner": "sony",
             "repo": "nmos-cpp",
             "stars": 187
@@ -1445,7 +1445,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T11:24:06Z",
+            "last_commit": "2026-08-13T14:51:53Z",
             "owner": "sony",
             "repo": "nmos-js",
             "stars": 46
@@ -1459,7 +1459,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:37:43Z",
+            "last_commit": "2026-08-13T13:58:18Z",
             "owner": "NVIDIA",
             "repo": "nvnmos",
             "stars": 20
@@ -1524,7 +1524,7 @@
             "last_commit": "2026-08-02T12:42:40Z",
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8075
+            "stars": 8078
           }
         },
         {
@@ -1552,7 +1552,7 @@
             "last_commit": "2026-04-22T16:53:19Z",
             "owner": "amugofjava",
             "repo": "anytime_podcast_player",
-            "stars": 616
+            "stars": 617
           }
         },
         {
@@ -1600,7 +1600,7 @@
             "last_commit": "2026-08-10T19:44:42Z",
             "owner": "AzuraCast",
             "repo": "AzuraCast",
-            "stars": 3982
+            "stars": 3988
           }
         },
         {
@@ -1611,10 +1611,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-12T20:25:59Z",
+            "last_commit": "2026-08-13T17:58:08Z",
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1715
+            "stars": 1718
           }
         },
         {
@@ -1673,10 +1673,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T05:46:02Z",
+            "last_commit": "2026-08-13T19:19:22Z",
             "owner": "cpvalente",
             "repo": "ontime",
-            "stars": 936
+            "stars": 938
           }
         },
         {
@@ -1690,7 +1690,7 @@
             "last_commit": "2026-06-02T09:15:48Z",
             "owner": "SuperFlyTV",
             "repo": "SuperConductor",
-            "stars": 348
+            "stars": 349
           }
         }
       ],
@@ -1707,7 +1707,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T01:58:59Z",
+            "last_commit": "2026-08-13T20:35:44Z",
             "owner": "superkabuki",
             "repo": "threefive_is_scte35",
             "stars": 21
@@ -1755,10 +1755,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T12:43:45Z",
+            "last_commit": "2026-08-13T11:34:59Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15258
+            "stars": 15263
           }
         },
         {
@@ -1772,7 +1772,7 @@
             "last_commit": "2026-08-11T22:33:36Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11456
+            "stars": 11458
           }
         }
       ],
@@ -1924,7 +1924,7 @@
             "last_commit": "2026-02-01T11:17:55Z",
             "owner": "AronHetLam",
             "repo": "ATEM_tally_light_with_ESP8266",
-            "stars": 195
+            "stars": 196
           }
         },
         {
@@ -1966,7 +1966,7 @@
             "last_commit": "2017-12-24T12:01:57Z",
             "owner": "InsanityRadio",
             "repo": "automix",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -2021,7 +2021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:23.963Z",
+    "last_updated": "2026-08-14T00:02:33.185Z",
     "original_repository": "ebu/awesome-broadcasting",
     "original_repository_sha": "c88ee2b7e1f1cdaff0e418b010520b751e6544d9",
     "enhanced_repository": "enhansome/enhansome-broadcasting",
