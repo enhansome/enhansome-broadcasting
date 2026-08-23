@@ -59,7 +59,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [PiClock](https://github.com/simonhyde/PiClock) ⭐ 36 | 🐛 5 | 🌐 C++ | 📅 2025-12-05 - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2014-03-22 - Radio Studio Clock with studio indicators for mics, telephones etc.
 * [PiClock Advanced](https://github.com/ael/piclock_advanced) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-03-20 - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
-* [OATIS](https://github.com/jamiehull/OATIS) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-08-16 - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
+* [OATIS](https://github.com/jamiehull/OATIS) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
 
 ## Codecs
 
@@ -90,7 +90,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Control Systems
 
-* [Bitfocus Companion](https://github.com/bitfocus/companion) ⭐ 2,263 | 🐛 301 | 🌐 TypeScript | 📅 2026-08-22 - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections).
+* [Bitfocus Companion](https://github.com/bitfocus/companion) ⭐ 2,264 | 🐛 295 | 🌐 TypeScript | 📅 2026-08-23 - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections).
 * [MIDIMonster](https://github.com/cbdevnet/midimonster) ⭐ 602 | 🐛 50 | 🌐 C | 📅 2024-06-24 - Lightweight adapter tool for common show control protocols.
 * [Lawo EmberPlus](https://github.com/Lawo/ember-plus) ⭐ 139 | 🐛 37 | 🌐 C++ | 📅 2025-10-22 - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 * [BUG](https://bbc.github.io/bug/) - Broadcast Universal Gateway - Control a wide range of broadcast and network equipment from your browser.
@@ -143,8 +143,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Media Players
 
-* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,117 | 🐛 464 | 🌐 C++ | 📅 2026-08-22 - A software media player and entertainment hub for digital media.
-* [rx-player](https://github.com/canalplus/rx-player) ⭐ 932 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-21 - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
+* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,126 | 🐛 466 | 🌐 C++ | 📅 2026-08-23 - A software media player and entertainment hub for digital media.
+* [rx-player](https://github.com/canalplus/rx-player) ⭐ 933 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-21 - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [Dash.js](https://github.com/ebu/dash.js) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-08 - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-03 - HTML5 player focused on accessibility.
 * [GPAC](https://gpac.io/) - Multimedia player, packager and tools.
@@ -188,14 +188,14 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Multimedia content processing
 
-* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 75,322 | 🐛 1,161 | 🌐 C | 📅 2026-08-22 - Software for live streaming and screen recording.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 75,355 | 🐛 1,164 | 🌐 C | 📅 2026-08-23 - Software for live streaming and screen recording.
 * [Flowblade](https://github.com/jliljebl/flowblade) ⭐ 3,087 | 🐛 59 | 🌐 Python | 📅 2026-06-23 - A multitrack non-linear video editor.
-* [Bento4](https://github.com/axiomatic-systems/Bento4) ⭐ 2,489 | 🐛 595 | 🌐 C++ | 📅 2026-06-27 - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+* [Bento4](https://github.com/axiomatic-systems/Bento4) ⭐ 2,490 | 🐛 595 | 🌐 C++ | 📅 2026-06-27 - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) ⭐ 2,461 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-28 - JavaScript library to process MP4 files in the browser (and in NodeJS).
 * [VideoContext](https://github.com/bbc/videocontext) ⭐ 1,353 | 🐛 40 | 🌐 JavaScript | 📅 2023-07-18 - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
 * [LibAV](https://github.com/libav/libav) ⭐ 1,155 | 🐛 9 | 🌐 C | 📅 2021-05-22 - Open source audio and video processing tools.
 * [Brave](https://github.com/bbc/brave) ⭐ 692 | 🐛 25 | 🌐 Python | 📅 2023-09-01 - Basic Real-time AV Editor - lets you preview, mix, and route live audio and video streams on the cloud.
-* [Voctomix](https://github.com/voc/voctomix) ⭐ 634 | 🐛 98 | 🌐 Python | 📅 2026-08-18 - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+* [Voctomix](https://github.com/voc/voctomix) ⭐ 634 | 🐛 98 | 🌐 Python | 📅 2026-08-23 - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 * [Libebur128](https://github.com/jiixyj/libebur128) ⭐ 491 | 🐛 38 | 🌐 C | 📅 2023-06-25 - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Beam Coder](https://github.com/Streampunk/beamcoder) ⭐ 414 | 🐛 64 | 🌐 C++ | 📅 2023-12-13 - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 * [SVT Encore](https://github.com/svt/encore) ⭐ 336 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-01 - Selfhosted video transcoding platform, built around FFmpeg.
@@ -247,8 +247,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Podcasting
 
-* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,100 | 🐛 362 | 🌐 Java | 📅 2026-08-22 - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
-* [Castopod](https://github.com/ad-aures/castopod) ⭐ 865 | 🐛 0 | 🌐 PHP | 📅 2026-06-05 - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
+* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,100 | 🐛 363 | 🌐 Java | 📅 2026-08-23 - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
+* [Castopod](https://github.com/ad-aures/castopod) ⭐ 866 | 🐛 0 | 🌐 PHP | 📅 2026-06-05 - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
 * [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) ⭐ 616 | 🐛 33 | 🌐 Dart | 📅 2026-04-22 - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
 * [Podlove Publisher](https://github.com/podlove/podlove-publisher) ⭐ 309 | 🐛 193 | 🌐 PHP | 📅 2026-08-17 - Podcast Publisher for WordPress.
 * [Podlove Web Player](https://github.com/podlove/podlove-ui) ⭐ 92 | 🐛 55 | 🌐 TypeScript | 📅 2026-01-30 - Podcast-optimized, HTML5-based video and audio player.
@@ -257,8 +257,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Radio Production
 
-* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,007 | 🐛 107 | 🌐 PHP | 📅 2026-08-20 - A self-hosted web radio management suite.
-* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,719 | 🐛 270 | 🌐 OCaml | 📅 2026-08-22 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,008 | 🐛 106 | 🌐 PHP | 📅 2026-08-23 - A self-hosted web radio management suite.
+* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,720 | 🐛 270 | 🌐 OCaml | 📅 2026-08-22 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 * [Airtime](https://github.com/sourcefabric/airtime) ⭐ 629 | 🐛 7 | 🌐 PHP | 📅 2021-07-14 - Radio management application for remote broadcast automation (via web-based schedule).
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) ⭐ 241 | 🐛 245 | 🌐 C++ | 📅 2026-08-12 - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 * [RAAR](https://github.com/radiorabe/raar) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2026-08-03 - A ruby application to manage and browse an audio archive.
@@ -269,7 +269,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Rundown Automation
 
-* [OnTime](https://github.com/cpvalente/ontime) ⭐ 942 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-22 - Web based time keeping system for live events with a broadcast clock view.
+* [OnTime](https://github.com/cpvalente/ontime) ⭐ 943 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-23 - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) ⭐ 350 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-02 - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
 ## SCTE-35 & SCTE-104
@@ -288,8 +288,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Streaming
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,274 | 🐛 684 | 🌐 TypeScript | 📅 2026-08-21 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,467 | 🐛 178 | 🌐 Go | 📅 2026-08-22 - Selfhosted video streaming platform (<https://owncast.online/>)
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,275 | 🐛 685 | 🌐 TypeScript | 📅 2026-08-21 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,469 | 🐛 178 | 🌐 Go | 📅 2026-08-22 - Selfhosted video streaming platform (<https://owncast.online/>)
 
 ## Subtitling
 
@@ -336,8 +336,8 @@ Various resources, such as books, websites and articles, for improving your skil
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) ⭐ 1,763 | 🐛 13 | 📅 2026-04-29 for details.
+Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) ⭐ 1,764 | 🐛 13 | 📅 2026-04-29 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
