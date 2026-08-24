@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T17:03:35Z",
             "owner": "bitfocus",
             "repo": "companion",
-            "stars": 2264
+            "stars": 2265
           }
         },
         {
@@ -425,6 +425,48 @@
         }
       ],
       "title": "Control Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StormCV",
+          "description": "Apache Storm + OpenCV = large scale distributed image and video analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27766532,
+            "language": "Java",
+            "last_commit": "2016-12-20T02:05:22Z",
+            "owner": "sensorstorm",
+            "repo": "StormCV",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Distributed Media Processing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kronekeeper",
+          "description": "A web based application for recording and managing Krone frame records.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57911572,
+            "language": "Perl",
+            "last_commit": "2021-01-09T20:55:03Z",
+            "owner": "nick-prater",
+            "repo": "kronekeeper",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Documentation"
     },
     {
       "description": null,
@@ -615,7 +657,7 @@
             "archived": false,
             "id": 925218601,
             "language": "Python",
-            "last_commit": "2026-08-18T20:22:21Z",
+            "last_commit": "2026-08-24T10:57:31Z",
             "owner": "SWR-MoIP",
             "repo": "VideoIPath-Automation-Tool",
             "stars": 12
@@ -651,10 +693,10 @@
             "archived": false,
             "id": 1217614,
             "language": "C++",
-            "last_commit": "2026-08-23T11:22:58Z",
+            "last_commit": "2026-08-24T06:22:46Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21126
+            "stars": 21129
           }
         },
         {
@@ -666,7 +708,7 @@
             "archived": false,
             "id": 37657658,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:07:45Z",
+            "last_commit": "2026-08-24T13:20:53Z",
             "owner": "canalplus",
             "repo": "rx-player",
             "stars": 933
@@ -846,7 +888,7 @@
             "last_commit": "2026-08-14T17:18:22Z",
             "owner": "Netflix",
             "repo": "vmaf",
-            "stars": 5457
+            "stars": 5459
           }
         },
         {
@@ -1047,7 +1089,7 @@
             "last_commit": "2026-08-23T00:34:13Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75355
+            "stars": 75385
           }
         },
         {
@@ -1077,7 +1119,7 @@
             "last_commit": "2026-06-27T10:29:30Z",
             "owner": "axiomatic-systems",
             "repo": "Bento4",
-            "stars": 2490
+            "stars": 2492
           }
         },
         {
@@ -1428,7 +1470,7 @@
             "last_commit": "2026-08-21T16:40:03Z",
             "owner": "axboe",
             "repo": "fio",
-            "stars": 6342
+            "stars": 6343
           }
         },
         {
@@ -1581,7 +1623,7 @@
             "archived": false,
             "id": 449425804,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:30:12Z",
+            "last_commit": "2026-08-24T09:09:58Z",
             "owner": "AMWA-TV",
             "repo": "nmos-device-control-mock",
             "stars": 12
@@ -1620,7 +1662,7 @@
             "last_commit": "2026-08-23T17:15:14Z",
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8100
+            "stars": 8102
           }
         },
         {
@@ -1635,7 +1677,7 @@
             "last_commit": "2026-06-05T19:47:06Z",
             "owner": "ad-aures",
             "repo": "castopod",
-            "stars": 866
+            "stars": 868
           }
         },
         {
@@ -1698,7 +1740,7 @@
             "archived": false,
             "id": 57463067,
             "language": "PHP",
-            "last_commit": "2026-08-23T12:26:14Z",
+            "last_commit": "2026-08-24T11:43:55Z",
             "owner": "AzuraCast",
             "repo": "AzuraCast",
             "stars": 4008
@@ -1713,7 +1755,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-22T14:21:58Z",
+            "last_commit": "2026-08-24T14:00:31Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1720
@@ -1797,7 +1839,7 @@
             "last_commit": "2026-06-02T09:15:48Z",
             "owner": "SuperFlyTV",
             "repo": "SuperConductor",
-            "stars": 350
+            "stars": 351
           }
         }
       ],
@@ -1866,10 +1908,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T11:58:20Z",
+            "last_commit": "2026-08-24T07:02:18Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15275
+            "stars": 15276
           }
         },
         {
@@ -2144,7 +2186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:16.987Z",
+    "last_updated": "2026-08-24T14:07:42.912Z",
     "original_repository": "ebu/awesome-broadcasting",
     "original_repository_id": 22038525,
     "original_repository_sha": "c88ee2b7e1f1cdaff0e418b010520b751e6544d9",
