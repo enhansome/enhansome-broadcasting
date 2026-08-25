@@ -30,7 +30,7 @@
             "last_commit": "2025-12-16T16:30:02Z",
             "owner": "Sofie-Automation",
             "repo": "Sofie-TV-automation",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 130708728,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:57:36Z",
+            "last_commit": "2026-08-25T20:37:15Z",
             "owner": "bitfocus",
             "repo": "companion",
-            "stars": 2267
+            "stars": 2269
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2024-06-24T15:37:50Z",
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2025-10-22T10:47:50Z",
             "owner": "Lawo",
             "repo": "ember-plus",
-            "stars": 139
+            "stars": 140
           }
         }
       ],
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-25T05:26:40Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21130
+            "stars": 21138
           }
         },
         {
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 37657658,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:51:10Z",
+            "last_commit": "2026-08-25T19:23:30Z",
             "owner": "canalplus",
             "repo": "rx-player",
             "stars": 933
@@ -1089,7 +1089,7 @@
             "last_commit": "2026-08-25T00:33:55Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75415
+            "stars": 75445
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2026-08-24T16:00:03Z",
             "owner": "axboe",
             "repo": "fio",
-            "stars": 6343
+            "stars": 6344
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "last_commit": "2026-08-21T14:24:17Z",
             "owner": "sony",
             "repo": "nmos-cpp",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-08-21T02:12:30Z",
             "owner": "rhastie",
             "repo": "easy-nmos",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -1662,7 +1662,7 @@
             "last_commit": "2026-08-23T17:15:14Z",
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8103
+            "stars": 8106
           }
         },
         {
@@ -1677,7 +1677,7 @@
             "last_commit": "2026-06-05T19:47:06Z",
             "owner": "ad-aures",
             "repo": "castopod",
-            "stars": 868
+            "stars": 869
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "last_commit": "2026-04-22T16:53:19Z",
             "owner": "amugofjava",
             "repo": "anytime_podcast_player",
-            "stars": 616
+            "stars": 617
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-25T05:39:27Z",
+            "last_commit": "2026-08-25T22:23:33Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1720
@@ -1773,7 +1773,7 @@
             "last_commit": "2021-07-14T09:40:43Z",
             "owner": "sourcefabric",
             "repo": "airtime",
-            "stars": 629
+            "stars": 628
           }
         },
         {
@@ -1785,7 +1785,7 @@
             "archived": false,
             "id": 22889147,
             "language": "C++",
-            "last_commit": "2026-08-12T19:19:35Z",
+            "last_commit": "2026-08-25T20:34:36Z",
             "owner": "ElvishArtisan",
             "repo": "rivendell",
             "stars": 241
@@ -1821,7 +1821,7 @@
             "archived": false,
             "id": 351085488,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:32:54Z",
+            "last_commit": "2026-08-25T20:41:39Z",
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 943
@@ -1908,10 +1908,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:55:25Z",
+            "last_commit": "2026-08-25T14:41:35Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15278
+            "stars": 15277
           }
         },
         {
@@ -1923,10 +1923,10 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-25T02:27:31Z",
+            "last_commit": "2026-08-25T21:09:13Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11470
+            "stars": 11472
           }
         }
       ],
@@ -1944,7 +1944,7 @@
             "archived": false,
             "id": 294991067,
             "language": "Python",
-            "last_commit": "2026-08-18T22:32:49Z",
+            "last_commit": "2026-08-25T20:36:33Z",
             "owner": "sandflow",
             "repo": "ttconv",
             "stars": 238
@@ -2186,7 +2186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:22.688Z",
+    "last_updated": "2026-08-25T23:43:48.262Z",
     "original_repository": "ebu/awesome-broadcasting",
     "original_repository_id": 22038525,
     "original_repository_sha": "c88ee2b7e1f1cdaff0e418b010520b751e6544d9",
