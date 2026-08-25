@@ -36,7 +36,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Animation, Graphics & Video Playout
 
-* [ffplayout](https://github.com/ffplayout/ffplayout) ⭐ 575 | 🐛 24 | 🌐 Rust | 📅 2026-08-21 - Rust and FFmpeg based playout from folder or playlists.
+* [ffplayout](https://github.com/ffplayout/ffplayout) ⭐ 576 | 🐛 24 | 🌐 Rust | 📅 2026-08-21 - Rust and FFmpeg based playout from folder or playlists.
 * [Sofie - TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) ⭐ 428 | 🐛 2 | 📅 2025-12-16 - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) ⭐ 418 | 🐛 32 | 🌐 JavaScript | 📅 2026-06-16 - Graphics control client for live video productions and live streams.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) ⭐ 219 | 🐛 15 | 🌐 C# | 📅 2026-04-28 - A CasparCG-based MCR play-out system.
@@ -143,7 +143,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Media Players
 
-* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,129 | 🐛 465 | 🌐 C++ | 📅 2026-08-24 - A software media player and entertainment hub for digital media.
+* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,130 | 🐛 458 | 🌐 C++ | 📅 2026-08-25 - A software media player and entertainment hub for digital media.
 * [rx-player](https://github.com/canalplus/rx-player) ⭐ 933 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-24 - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [Dash.js](https://github.com/ebu/dash.js) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-08 - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-03 - HTML5 player focused on accessibility.
@@ -169,11 +169,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Monitoring & Quality Control
 
 * [VMAF](https://github.com/Netflix/vmaf) ⭐ 5,459 | 🐛 115 | 🌐 C | 📅 2026-08-14 - Perceptual video quality assessment based on multi-method fusion.
-* [QCTools](https://github.com/bavc/qctools) ⭐ 386 | 🐛 80 | 🌐 C++ | 📅 2026-07-06 - Quality Control tools for video preservation to analyse digitized video files.
+* [QCTools](https://github.com/bavc/qctools) ⭐ 387 | 🐛 80 | 🌐 C++ | 📅 2026-07-06 - Quality Control tools for video preservation to analyse digitized video files.
 * [Photon](https://github.com/Netflix/photon) ⭐ 254 | 🐛 40 | 🌐 Java | 📅 2026-07-01 - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [Pi Audio Monitor](https://github.com/martim01/pam) ⭐ 183 | 🐛 21 | 🌐 C++ | 📅 2026-04-30 - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) ⭐ 95 | 🐛 10 | 🌐 JavaScript | 📅 2019-03-09 - A framework to create browser based listening tests for subjective audio quality assessment.
-* [LTC-tools](https://github.com/x42/ltc-tools) ⭐ 93 | 🐛 7 | 🌐 C | 📅 2026-06-08 - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+* [LTC-tools](https://github.com/x42/ltc-tools) ⭐ 94 | 🐛 7 | 🌐 C | 📅 2026-06-08 - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 * [Rotter](https://github.com/njh/rotter) ⭐ 55 | 🐛 13 | 🌐 C | 📅 2021-07-29 - Recording of Transmissions / Audio Logger for JACK.
 * [MXF Inspect](https://github.com/Myriadbits/MXFInspect) ⭐ 52 | 🐛 3 | 🌐 C# | 📅 2026-02-11 - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Jack Meter](https://github.com/njh/jackmeter) ⭐ 46 | 🐛 3 | 🌐 C | 📅 2021-07-29 - Text console based DPM (Digital Peak Meter) for JACK.
@@ -188,7 +188,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Multimedia content processing
 
-* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 75,393 | 🐛 1,162 | 🌐 C | 📅 2026-08-24 - Software for live streaming and screen recording.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 75,415 | 🐛 1,162 | 🌐 C | 📅 2026-08-25 - Software for live streaming and screen recording.
 * [Flowblade](https://github.com/jliljebl/flowblade) ⭐ 3,089 | 🐛 59 | 🌐 Python | 📅 2026-06-23 - A multitrack non-linear video editor.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) ⭐ 2,493 | 🐛 596 | 🌐 C++ | 📅 2026-06-27 - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) ⭐ 2,461 | 🐛 41 | 🌐 TypeScript | 📅 2026-07-28 - JavaScript library to process MP4 files in the browser (and in NodeJS).
@@ -199,7 +199,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Libebur128](https://github.com/jiixyj/libebur128) ⭐ 491 | 🐛 38 | 🌐 C | 📅 2023-06-25 - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Beam Coder](https://github.com/Streampunk/beamcoder) ⭐ 414 | 🐛 64 | 🌐 C++ | 📅 2023-12-13 - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 * [SVT Encore](https://github.com/svt/encore) ⭐ 336 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-01 - Selfhosted video transcoding platform, built around FFmpeg.
-* [L-SMASH](https://github.com/l-smash/l-smash/) ⭐ 250 | 🐛 35 | 🌐 C | 📅 2024-05-06 - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+* [L-SMASH](https://github.com/l-smash/l-smash/) ⭐ 249 | 🐛 35 | 🌐 C | 📅 2024-05-06 - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [FFmbc](https://github.com/bcoudurier/FFmbc) ⭐ 199 | 🐛 2 | 🌐 C | 📅 2020-07-19 - FFmpeg customized for broadcast and professional usage.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 192 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An open source image processing framework based on OpenFX plugin standard.
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) ⭐ 167 | 🐛 26 | 🌐 C++ | 📅 2023-09-22 - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
@@ -257,8 +257,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Radio Production
 
-* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,008 | 🐛 108 | 🌐 PHP | 📅 2026-08-24 - A self-hosted web radio management suite.
-* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,720 | 🐛 271 | 🌐 OCaml | 📅 2026-08-24 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,008 | 🐛 107 | 🌐 PHP | 📅 2026-08-25 - A self-hosted web radio management suite.
+* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,720 | 🐛 272 | 🌐 OCaml | 📅 2026-08-25 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 * [Airtime](https://github.com/sourcefabric/airtime) ⭐ 629 | 🐛 7 | 🌐 PHP | 📅 2021-07-14 - Radio management application for remote broadcast automation (via web-based schedule).
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) ⭐ 241 | 🐛 245 | 🌐 C++ | 📅 2026-08-12 - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 * [RAAR](https://github.com/radiorabe/raar) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2026-08-03 - A ruby application to manage and browse an audio archive.
@@ -269,7 +269,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Rundown Automation
 
-* [OnTime](https://github.com/cpvalente/ontime) ⭐ 943 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-24 - Web based time keeping system for live events with a broadcast clock view.
+* [OnTime](https://github.com/cpvalente/ontime) ⭐ 943 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-25 - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) ⭐ 351 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-02 - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
 ## SCTE-35 & SCTE-104
@@ -288,8 +288,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Streaming
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,276 | 🐛 680 | 🌐 TypeScript | 📅 2026-08-24 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,469 | 🐛 178 | 🌐 Go | 📅 2026-08-22 - Selfhosted video streaming platform (<https://owncast.online/>)
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,278 | 🐛 680 | 🌐 TypeScript | 📅 2026-08-24 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,470 | 🐛 183 | 🌐 Go | 📅 2026-08-25 - Selfhosted video streaming platform (<https://owncast.online/>)
 
 ## Subtitling
 
@@ -340,4 +340,4 @@ Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
