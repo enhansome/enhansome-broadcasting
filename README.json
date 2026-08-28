@@ -16,7 +16,8 @@
             "owner": "ffplayout",
             "repo": "ffplayout",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Sofie-Automation",
             "repo": "Sofie-TV-automation",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "TuomoKu",
             "repo": "SPX-GC",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "jaskie",
             "repo": "PlayoutAutomation",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "thaytan",
             "repo": "aurena",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Streampunk",
             "repo": "macadam",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ebu",
             "repo": "ograf",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "svt",
             "repo": "bridge",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "jaskie",
             "repo": "StudioTVPlayer",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Streamshapers",
             "repo": "StreamShapers-Ferryman",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "michalramus",
             "repo": "caspar-obs-client",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Animation, Graphics & Video Playout"
@@ -187,7 +198,8 @@
             "owner": "saschaludwig",
             "repo": "OnAirScreen",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "simonhyde",
             "repo": "PiClock",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "jdgwarren",
             "repo": "pirsclockfull",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ael",
             "repo": "piclock_advanced",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jamiehull",
             "repo": "OATIS",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Clocks & Studio Screens"
@@ -268,7 +284,8 @@
             "owner": "Eyevinn",
             "repo": "intercom-manager",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "matiaspl",
             "repo": "intercom",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Communication"
@@ -304,7 +322,8 @@
             "owner": "bbc",
             "repo": "pydvbcss",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "bbc",
             "repo": "dvbcss-synctiming",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "bbc",
             "repo": "dvbcss-synckit-ios",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "bbc",
             "repo": "dial-discovery-ios",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Companion Screens"
@@ -370,7 +392,8 @@
             "owner": "Samsung",
             "repo": "HbbPlayer",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Connected TVs"
@@ -391,7 +414,8 @@
             "owner": "bitfocus",
             "repo": "companion",
             "stars": 2270
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "cbdevnet",
             "repo": "midimonster",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "Lawo",
             "repo": "ember-plus",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Control Systems"
@@ -442,7 +468,8 @@
             "owner": "sensorstorm",
             "repo": "StormCV",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Distributed Media Processing"
@@ -463,7 +490,8 @@
             "owner": "nick-prater",
             "repo": "kronekeeper",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Documentation"
@@ -484,7 +512,8 @@
             "owner": "aventuri",
             "repo": "opencaster",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -499,7 +528,8 @@
             "owner": "ebu",
             "repo": "dtt2ip",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -514,7 +544,8 @@
             "owner": "njh",
             "repo": "dvbshout",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "njh",
             "repo": "ts2mpa",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "DVB & WiFi"
@@ -550,7 +582,8 @@
             "owner": "bbc",
             "repo": "RadioVisDemo",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -565,7 +598,8 @@
             "owner": "ebu",
             "repo": "radiodns-manager",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "ebu",
             "repo": "radiovis-html5player",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "bbc",
             "repo": "node-radiovis-stomp-server",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "bbc",
             "repo": "node-radiodns",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "ebu",
             "repo": "radiotag.js",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Hybrid Radio"
@@ -646,7 +684,8 @@
             "owner": "ebu",
             "repo": "pi-list",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -661,7 +700,8 @@
             "owner": "SWR-MoIP",
             "repo": "VideoIPath-Automation-Tool",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -676,7 +716,8 @@
             "owner": "IrisBroadcast",
             "repo": "irisbroadcast.github.io",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "LiveIP"
@@ -693,11 +734,12 @@
             "archived": false,
             "id": 1217614,
             "language": "C++",
-            "last_commit": "2026-08-27T03:41:11Z",
+            "last_commit": "2026-08-28T02:49:41Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21145
-          }
+            "stars": 21146
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -712,7 +754,8 @@
             "owner": "canalplus",
             "repo": "rx-player",
             "stars": 934
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -727,7 +770,8 @@
             "owner": "ebu",
             "repo": "dash.js",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -742,7 +786,8 @@
             "owner": "ebu",
             "repo": "media4Dplayer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Media Players"
@@ -763,7 +808,8 @@
             "owner": "stoth68000",
             "repo": "libklvanc",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -778,7 +824,8 @@
             "owner": "ebu",
             "repo": "libadm",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -793,7 +840,8 @@
             "owner": "ebu",
             "repo": "bmx",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -808,7 +856,8 @@
             "owner": "ebu",
             "repo": "ebucore",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -823,7 +872,8 @@
             "owner": "AMWA-TV",
             "repo": "sdpoker",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -838,7 +888,8 @@
             "owner": "AMWA-TV",
             "repo": "maj",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -853,7 +904,8 @@
             "owner": "ebu",
             "repo": "tvanytime",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "mikrosimage",
             "repo": "jebu-core",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Metadata"
@@ -889,7 +942,8 @@
             "owner": "Netflix",
             "repo": "vmaf",
             "stars": 5460
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -904,7 +958,8 @@
             "owner": "bavc",
             "repo": "qctools",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -919,7 +974,8 @@
             "owner": "Netflix",
             "repo": "photon",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -934,7 +990,8 @@
             "owner": "martim01",
             "repo": "pam",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1006,8 @@
             "owner": "HSU-ANT",
             "repo": "beaqlejs",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1022,8 @@
             "owner": "x42",
             "repo": "ltc-tools",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1038,8 @@
             "owner": "njh",
             "repo": "rotter",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1054,8 @@
             "owner": "Myriadbits",
             "repo": "MXFInspect",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1070,8 @@
             "owner": "njh",
             "repo": "jackmeter",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1086,8 @@
             "owner": "x42",
             "repo": "silan",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1102,8 @@
             "owner": "njh",
             "repo": "silentjack",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1118,8 @@
             "owner": "MarcAntoine-Arnaud",
             "repo": "wisual",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1134,8 @@
             "owner": "Bencosterton",
             "repo": "a_MultiView",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Monitoring & Quality Control"
@@ -1089,8 +1155,9 @@
             "last_commit": "2026-08-26T18:05:18Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75506
-          }
+            "stars": 75539
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1172,8 @@
             "owner": "jliljebl",
             "repo": "flowblade",
             "stars": 3088
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1188,8 @@
             "owner": "axiomatic-systems",
             "repo": "Bento4",
             "stars": 2493
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1204,8 @@
             "owner": "gpac",
             "repo": "mp4box.js",
             "stars": 2463
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1220,8 @@
             "owner": "bbc",
             "repo": "VideoContext",
             "stars": 1353
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1236,8 @@
             "owner": "libav",
             "repo": "libav",
             "stars": 1155
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1252,8 @@
             "owner": "bbc",
             "repo": "brave",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1268,8 @@
             "owner": "voc",
             "repo": "voctomix",
             "stars": 634
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1284,8 @@
             "owner": "jiixyj",
             "repo": "libebur128",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1300,8 @@
             "owner": "Streampunk",
             "repo": "beamcoder",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1316,8 @@
             "owner": "svt",
             "repo": "encore",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1332,8 @@
             "owner": "l-smash",
             "repo": "l-smash",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1348,8 @@
             "owner": "bcoudurier",
             "repo": "FFmbc",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1364,8 @@
             "owner": "tuttleofx",
             "repo": "TuttleOFX",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1380,8 @@
             "owner": "avTranscoder",
             "repo": "avTranscoder",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1396,8 @@
             "owner": "c-bata",
             "repo": "rtmp",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1412,8 @@
             "owner": "Dash-Industry-Forum",
             "repo": "codem-isoboxer",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1428,8 @@
             "owner": "ebu",
             "repo": "ebu_adm_renderer",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1444,8 @@
             "owner": "chaudum",
             "repo": "rgain3",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1460,8 @@
             "owner": "Streampunk",
             "repo": "node-red-contrib-dynamorse-core",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1476,8 @@
             "owner": "ebu",
             "repo": "libbw64",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1492,8 @@
             "owner": "ebu",
             "repo": "libear",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1508,8 @@
             "owner": "Streampunk",
             "repo": "kelvinadon",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1524,8 @@
             "owner": "mikrosimage",
             "repo": "loudness_validator",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1540,8 @@
             "owner": "cmassiot",
             "repo": "upipe",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Multimedia content processing"
@@ -1471,7 +1562,8 @@
             "owner": "axboe",
             "repo": "fio",
             "stars": 6346
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1578,8 @@
             "owner": "ebu",
             "repo": "smpte2110-analyzer",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1594,8 @@
             "owner": "NEOAdvancedTechnology",
             "repo": "ST2110_pcap_zoo",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1610,8 @@
             "owner": "roddypratt",
             "repo": "router_dissectors",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1626,8 @@
             "owner": "roddypratt",
             "repo": "tslumd-wireshark",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Network & Storage Testing"
@@ -1552,7 +1648,8 @@
             "owner": "sony",
             "repo": "nmos-cpp",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1664,8 @@
             "owner": "rhastie",
             "repo": "easy-nmos",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1680,8 @@
             "owner": "sony",
             "repo": "nmos-js",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1696,8 @@
             "owner": "NVIDIA",
             "repo": "nvnmos",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1712,8 @@
             "owner": "bbc",
             "repo": "nmos-joint-ri",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1728,8 @@
             "owner": "AMWA-TV",
             "repo": "nmos-device-control-mock",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1744,8 @@
             "owner": "deltacasttv",
             "repo": "nmos-ipvc-samples",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "NMOS"
@@ -1662,8 +1765,9 @@
             "last_commit": "2026-08-26T21:01:22Z",
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8107
-          }
+            "stars": 8108
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1678,7 +1782,8 @@
             "owner": "ad-aures",
             "repo": "castopod",
             "stars": 870
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1798,8 @@
             "owner": "amugofjava",
             "repo": "anytime_podcast_player",
             "stars": 617
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1814,8 @@
             "owner": "podlove",
             "repo": "podlove-publisher",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1830,8 @@
             "owner": "podlove",
             "repo": "podlove-ui",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Podcasting"
@@ -1740,11 +1848,12 @@
             "archived": false,
             "id": 57463067,
             "language": "PHP",
-            "last_commit": "2026-08-25T00:00:46Z",
+            "last_commit": "2026-08-27T21:18:20Z",
             "owner": "AzuraCast",
             "repo": "AzuraCast",
-            "stars": 4009
-          }
+            "stars": 4011
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1758,8 +1867,9 @@
             "last_commit": "2026-08-26T19:04:46Z",
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1720
-          }
+            "stars": 1721
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1884,8 @@
             "owner": "sourcefabric",
             "repo": "airtime",
             "stars": 628
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1900,8 @@
             "owner": "ElvishArtisan",
             "repo": "rivendell",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1916,8 @@
             "owner": "radiorabe",
             "repo": "raar",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Radio Production"
@@ -1821,11 +1934,12 @@
             "archived": false,
             "id": 351085488,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:17:40Z",
+            "last_commit": "2026-08-28T06:49:46Z",
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1954,8 @@
             "owner": "SuperFlyTV",
             "repo": "SuperConductor",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Rundown Automation"
@@ -1861,7 +1976,8 @@
             "owner": "superkabuki",
             "repo": "threefive_is_scte35",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +1992,8 @@
             "owner": "superkabuki",
             "repo": "x9k3",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2008,8 @@
             "owner": "m1tk4",
             "repo": "wireshark-scte",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "SCTE-35 & SCTE-104"
@@ -1911,8 +2029,9 @@
             "last_commit": "2026-08-25T14:41:35Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15277
-          }
+            "stars": 15279
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1923,11 +2042,12 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-27T10:19:08Z",
+            "last_commit": "2026-08-27T23:52:41Z",
             "owner": "owncast",
             "repo": "owncast",
             "stars": 11474
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Streaming"
@@ -1948,7 +2068,8 @@
             "owner": "sandflow",
             "repo": "ttconv",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1963,7 +2084,8 @@
             "owner": "sandflow",
             "repo": "imscJS",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2100,8 @@
             "owner": "skynav",
             "repo": "ttt",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2116,8 @@
             "owner": "IRT-Open-Source",
             "repo": "scf",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2008,7 +2132,8 @@
             "owner": "ebu",
             "repo": "ebu-tt-live-toolkit",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2023,7 +2148,8 @@
             "owner": "BBC-archive",
             "repo": "gst-ttml-subtitles",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2038,7 +2164,8 @@
             "owner": "IRT-Open-Source",
             "repo": "irt-ebu-tt-d-application-samples",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2053,7 +2180,8 @@
             "owner": "ebu",
             "repo": "dash.js",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2068,7 +2196,8 @@
             "owner": "ebu",
             "repo": "ebu-tt-d-xsd",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Subtitling"
@@ -2089,7 +2218,8 @@
             "owner": "AronHetLam",
             "repo": "ATEM_tally_light_with_ESP8266",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2104,7 +2234,8 @@
             "owner": "wifi-tally",
             "repo": "wifi-tally",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2119,7 +2250,8 @@
             "owner": "Sofie-Automation",
             "repo": "sofie-mos-connection",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2266,8 @@
             "owner": "InsanityRadio",
             "repo": "automix",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2149,7 +2282,8 @@
             "owner": "mattlamb99",
             "repo": "vMix-EmberPlus",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2164,7 +2298,8 @@
             "owner": "michalramus",
             "repo": "obs-shotlister",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         },
         {
           "node_type": "item",
@@ -2179,14 +2314,15 @@
             "owner": "michalramus",
             "repo": "TallyLights",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
         }
       ],
       "title": "Video Production"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:47.058Z",
+    "last_updated": "2026-08-28T06:57:44.571Z",
     "original_repository_info": {
       "archived": false,
       "id": 22038525,
@@ -2194,7 +2330,7 @@
       "last_commit": "2026-04-29T10:25:42Z",
       "owner": "ebu",
       "repo": "awesome-broadcasting",
-      "stars": 1764
+      "stars": 1765
     },
     "original_repository_sha": "c88ee2b7e1f1cdaff0e418b010520b751e6544d9",
     "enhanced_repository": "enhansome/enhansome-broadcasting",
