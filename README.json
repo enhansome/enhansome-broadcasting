@@ -1705,10 +1705,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-26T18:05:18Z",
-            "open_issues": 1167,
+            "open_issues": 1168,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 75568,
+            "stars": 75570,
             "topics": [
               "c",
               "c-plus-plus",
@@ -3506,7 +3506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:03.952Z",
+    "last_updated": "2026-08-29T04:31:43.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
