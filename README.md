@@ -72,7 +72,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Communication
 
-* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) ⭐ 91 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-05 + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) ⭐ 70 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-05 - Intercom system based on built by Eyevinn for SVT.
+* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) ⭐ 91 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-06 + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) ⭐ 70 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-05 - Intercom system based on built by Eyevinn for SVT.
 * [DYI intercom](https://github.com/matiaspl/intercom) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-08 - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
 ## Companion Screens
@@ -143,8 +143,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Media Players
 
-* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,286 | 🐛 476 | 🌐 C++ | 📅 2026-10-05 - A software media player and entertainment hub for digital media.
-* [rx-player](https://github.com/canalplus/rx-player) ⭐ 934 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-02 - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
+* [Kodi](https://github.com/xbmc/xbmc) ⭐ 21,286 | 🐛 472 | 🌐 C++ | 📅 2026-10-06 - A software media player and entertainment hub for digital media.
+* [rx-player](https://github.com/canalplus/rx-player) ⭐ 934 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-06 - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [Dash.js](https://github.com/ebu/dash.js) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-08 - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-03 - HTML5 player focused on accessibility.
 * [GPAC](https://gpac.io/) - Multimedia player, packager and tools.
@@ -189,7 +189,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Multimedia content processing
 
-* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 77,015 | 🐛 1,148 | 🌐 C | 📅 2026-10-06 - Software for live streaming and screen recording.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) ⭐ 77,042 | 🐛 1,148 | 🌐 C | 📅 2026-10-06 - Software for live streaming and screen recording.
 * [Flowblade](https://github.com/jliljebl/flowblade) ⭐ 3,093 | 🐛 56 | 🌐 Python | 📅 2026-10-05 - A multitrack non-linear video editor.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) ⭐ 2,509 | 🐛 630 | 🌐 C++ | 📅 2026-06-27 - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) ⭐ 2,470 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-23 - JavaScript library to process MP4 files in the browser (and in NodeJS).
@@ -250,7 +250,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,203 | 🐛 370 | 🌐 Java | 📅 2026-10-04 - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
 * [Castopod](https://github.com/ad-aures/castopod) ⭐ 874 | 🐛 0 | 🌐 PHP | 📅 2026-06-05 - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
-* [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) ⭐ 623 | 🐛 35 | 🌐 Dart | 📅 2026-04-22 - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
+* [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) ⭐ 622 | 🐛 35 | 🌐 Dart | 📅 2026-04-22 - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
 * [Podlove Publisher](https://github.com/podlove/podlove-publisher) ⭐ 309 | 🐛 190 | 🌐 PHP | 📅 2026-09-30 - Podcast Publisher for WordPress.
 * [Podlove Web Player](https://github.com/podlove/podlove-ui) ⭐ 93 | 🐛 55 | 🌐 TypeScript | 📅 2026-01-30 - Podcast-optimized, HTML5-based video and audio player.
 * [gPodder](https://gpodder.github.io/) - Media aggregator and podcast client.
@@ -258,8 +258,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Radio Production
 
-* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,056 | 🐛 110 | 🌐 PHP | 📅 2026-10-05 - A self-hosted web radio management suite.
-* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,738 | 🐛 272 | 🌐 OCaml | 📅 2026-10-06 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,057 | 🐛 110 | 🌐 PHP | 📅 2026-10-05 - A self-hosted web radio management suite.
+* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,738 | 🐛 275 | 🌐 OCaml | 📅 2026-10-06 - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 * [Airtime](https://github.com/sourcefabric/airtime) ⭐ 630 | 🐛 7 | 🌐 PHP | 📅 2021-07-14 - Radio management application for remote broadcast automation (via web-based schedule).
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) ⭐ 245 | 🐛 250 | 🌐 C++ | 📅 2026-08-26 - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 * [RAAR](https://github.com/radiorabe/raar) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2026-10-02 - A ruby application to manage and browse an audio archive.
@@ -275,8 +275,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## SCTE-35 & SCTE-104
 
-* [threefive](https://github.com/superkabuki/threefive_is_scte35) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - SCTE-35 Parser and Encoder for MPEGTS.
-* [x9k3](https://github.com/superkabuki/x9k3) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
+* [threefive](https://github.com/superkabuki/threefive_is_scte35) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - SCTE-35 Parser and Encoder for MPEGTS.
+* [x9k3](https://github.com/superkabuki/x9k3) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-06 - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 * [wireshark-scte](https://github.com/m1tk4/wireshark-scte) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2026-01-14 - SCTE-104 protocol dissector for Wireshark.
 
 ## Software-defined radio
@@ -289,7 +289,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Streaming
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,345 | 🐛 706 | 🌐 TypeScript | 📅 2026-10-05 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,345 | 🐛 706 | 🌐 TypeScript | 📅 2026-10-06 - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
 * [Owncast](https://github.com/owncast/owncast) ⭐ 11,575 | 🐛 170 | 🌐 Go | 📅 2026-10-05 - Selfhosted video streaming platform (<https://owncast.online/>)
 
 ## Subtitling
