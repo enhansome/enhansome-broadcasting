@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "ffplayout",
             "repo": "ffplayout",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "broadcast",
               "ffmpeg",
@@ -134,6 +134,34 @@
         },
         {
           "node_type": "item",
+          "title": "OGraf",
+          "description": "Open specification for HTML based Graphics, used in live television and post production workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OGraf is an Open specification for HTML based Graphics, used in live television and post production workflows.",
+            "homepage": "https://ograf.ebu.io",
+            "id": 943273684,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-04T17:52:54Z",
+            "open_issues": 20,
+            "owner": "ebu",
+            "repo": "ograf",
+            "stars": 135,
+            "topics": [
+              "ebu",
+              "graphics",
+              "hacktoberfest",
+              "ograf",
+              "television",
+              "tv-production"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:44.571Z"
+        },
+        {
+          "node_type": "item",
           "title": "Aurena",
           "description": "A network distributed media playback system.",
           "children": [],
@@ -150,34 +178,6 @@
             "repo": "aurena",
             "stars": 134,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:57:44.571Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OGraf",
-          "description": "Open specification for HTML based Graphics, used in live television and post production workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OGraf is an Open specification for HTML based Graphics, used in live television and post production workflows.",
-            "homepage": "https://ograf.ebu.io",
-            "id": 943273684,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-04T17:52:54Z",
-            "open_issues": 20,
-            "owner": "ebu",
-            "repo": "ograf",
-            "stars": 134,
-            "topics": [
-              "ebu",
-              "graphics",
-              "hacktoberfest",
-              "ograf",
-              "television",
-              "tv-production"
-            ]
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
         },
@@ -642,10 +642,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:20:24Z",
-            "open_issues": 290,
+            "open_issues": 291,
             "owner": "bitfocus",
             "repo": "companion",
-            "stars": 2320,
+            "stars": 2321,
             "topics": [
               "artnet",
               "atem",
@@ -679,7 +679,7 @@
             "open_issues": 52,
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "art-net",
               "artnet",
@@ -1109,11 +1109,11 @@
             "id": 1217614,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T00:07:29Z",
-            "open_issues": 509,
+            "last_commit": "2026-10-10T23:12:34Z",
+            "open_issues": 518,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21297,
+            "stars": 21304,
             "topics": [
               "android",
               "c-plus-plus",
@@ -1413,7 +1413,7 @@
             "open_issues": 167,
             "owner": "Netflix",
             "repo": "vmaf",
-            "stars": 5523,
+            "stars": 5524,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1725,10 +1725,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-10T01:13:10Z",
-            "open_issues": 1147,
+            "open_issues": 1145,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 77208,
+            "stars": 77258,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1782,7 +1782,7 @@
             "open_issues": 630,
             "owner": "axiomatic-systems",
             "repo": "Bento4",
-            "stars": 2507,
+            "stars": 2508,
             "topics": [
               "aac",
               "ac-3",
@@ -1818,7 +1818,7 @@
             "open_issues": 39,
             "owner": "gpac",
             "repo": "mp4box.js",
-            "stars": 2472,
+            "stars": 2473,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1867,7 +1867,7 @@
             "open_issues": 9,
             "owner": "libav",
             "repo": "libav",
-            "stars": 1155,
+            "stars": 1156,
             "topics": [
               "audio",
               "multimedia",
@@ -1942,7 +1942,7 @@
             "open_issues": 38,
             "owner": "jiixyj",
             "repo": "libebur128",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -2320,7 +2320,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-01T18:40:03Z",
-            "open_issues": 235,
+            "open_issues": 236,
             "owner": "axboe",
             "repo": "fio",
             "stars": 6392,
@@ -2613,10 +2613,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T09:48:49Z",
-            "open_issues": 372,
+            "open_issues": 376,
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8210,
+            "stars": 8213,
             "topics": [
               "android",
               "apps",
@@ -2642,7 +2642,7 @@
             "open_issues": 0,
             "owner": "ad-aures",
             "repo": "castopod",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "analytics",
               "castopod",
@@ -2754,10 +2754,10 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-05T23:06:31Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "AzuraCast",
             "repo": "AzuraCast",
-            "stars": 4063,
+            "stars": 4065,
             "topics": [
               "icecast",
               "liquidsoap",
@@ -2783,11 +2783,11 @@
             "id": 3055052,
             "language": "OCaml",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-09T17:53:14Z",
+            "last_commit": "2026-10-10T20:26:00Z",
             "open_issues": 271,
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "liquidsoap",
               "streaming",
@@ -2882,7 +2882,7 @@
             "id": 351085488,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T21:58:42Z",
+            "last_commit": "2026-10-10T21:25:26Z",
             "open_issues": 38,
             "owner": "cpvalente",
             "repo": "ontime",
@@ -3062,10 +3062,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-06T13:12:20Z",
-            "open_issues": 707,
+            "open_issues": 708,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15349,
+            "stars": 15354,
             "topics": [
               "activitypub",
               "angular",
@@ -3088,11 +3088,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-10T02:21:41Z",
-            "open_issues": 168,
+            "last_commit": "2026-10-11T01:34:34Z",
+            "open_issues": 166,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11582,
+            "stars": 11584,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -3167,7 +3167,7 @@
             "id": 74622256,
             "language": "JavaScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-08T04:45:47Z",
+            "last_commit": "2026-10-10T16:04:19Z",
             "open_issues": 19,
             "owner": "sandflow",
             "repo": "imscJS",
@@ -3527,7 +3527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:25:54.255Z",
+    "last_updated": "2026-10-11T01:59:26.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
