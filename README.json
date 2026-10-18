@@ -148,7 +148,7 @@
             "open_issues": 21,
             "owner": "ebu",
             "repo": "ograf",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "ebu",
               "graphics",
@@ -641,11 +641,11 @@
             "id": 130708728,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T22:16:13Z",
-            "open_issues": 288,
+            "last_commit": "2026-10-17T12:37:53Z",
+            "open_issues": 285,
             "owner": "bitfocus",
             "repo": "companion",
-            "stars": 2330,
+            "stars": 2332,
             "topics": [
               "artnet",
               "atem",
@@ -1109,11 +1109,11 @@
             "id": 1217614,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T23:52:43Z",
-            "open_issues": 497,
+            "last_commit": "2026-10-17T22:26:28Z",
+            "open_issues": 505,
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21339,
+            "stars": 21346,
             "topics": [
               "android",
               "c-plus-plus",
@@ -1254,7 +1254,7 @@
             "open_issues": 15,
             "owner": "ebu",
             "repo": "bmx",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1409,11 +1409,11 @@
             "id": 51317975,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T21:51:30Z",
+            "last_commit": "2026-10-17T06:13:52Z",
             "open_issues": 168,
             "owner": "Netflix",
             "repo": "vmaf",
-            "stars": 5532,
+            "stars": 5533,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1725,10 +1725,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-16T22:36:24Z",
-            "open_issues": 1152,
+            "open_issues": 1156,
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 77647,
+            "stars": 77698,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1761,7 +1761,7 @@
             "open_issues": 56,
             "owner": "jliljebl",
             "repo": "flowblade",
-            "stars": 3095,
+            "stars": 3096,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1782,7 +1782,7 @@
             "open_issues": 629,
             "owner": "axiomatic-systems",
             "repo": "Bento4",
-            "stars": 2511,
+            "stars": 2513,
             "topics": [
               "aac",
               "ac-3",
@@ -1818,7 +1818,7 @@
             "open_issues": 39,
             "owner": "gpac",
             "repo": "mp4box.js",
-            "stars": 2475,
+            "stars": 2474,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -1867,7 +1867,7 @@
             "open_issues": 9,
             "owner": "libav",
             "repo": "libav",
-            "stars": 1154,
+            "stars": 1153,
             "topics": [
               "audio",
               "multimedia",
@@ -1942,7 +1942,7 @@
             "open_issues": 38,
             "owner": "jiixyj",
             "repo": "libebur128",
-            "stars": 491,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -2323,7 +2323,7 @@
             "open_issues": 238,
             "owner": "axboe",
             "repo": "fio",
-            "stars": 6395,
+            "stars": 6397,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:44.571Z"
@@ -2616,7 +2616,7 @@
             "open_issues": 378,
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8221,
+            "stars": 8226,
             "topics": [
               "android",
               "apps",
@@ -2672,7 +2672,7 @@
             "open_issues": 37,
             "owner": "amugofjava",
             "repo": "anytime_podcast_player",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "android",
               "dart",
@@ -2753,8 +2753,8 @@
             "id": 57463067,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T18:46:46Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-17T21:35:08Z",
+            "open_issues": 106,
             "owner": "AzuraCast",
             "repo": "AzuraCast",
             "stars": 4067,
@@ -2882,8 +2882,8 @@
             "id": 351085488,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T17:40:03Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-17T20:23:19Z",
+            "open_issues": 38,
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 965,
@@ -2947,7 +2947,7 @@
             "id": 948390549,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-16T21:58:09Z",
+            "last_commit": "2026-10-17T16:37:16Z",
             "open_issues": 1,
             "owner": "superkabuki",
             "repo": "threefive_is_scte35",
@@ -3062,7 +3062,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-16T15:07:08Z",
-            "open_issues": 691,
+            "open_issues": 693,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
             "stars": 15366,
@@ -3088,11 +3088,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-15T18:50:36Z",
+            "last_commit": "2026-10-17T21:11:12Z",
             "open_issues": 167,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11603,
+            "stars": 11611,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -3527,7 +3527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:21:54.894Z",
+    "last_updated": "2026-10-18T01:12:09.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
